@@ -53,10 +53,7 @@
       </ul>
      
       <!-- buttons Links -->
-
-      <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-      
-    </div>
+       
   </div>
 </nav>
 <!-- ✅ Navbar End -->
