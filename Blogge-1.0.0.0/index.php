@@ -7,6 +7,7 @@ include("includes/header.php");
 
 // nav bar start
 include("includes/navbar.php");
+
 // nav bar end
 
 
