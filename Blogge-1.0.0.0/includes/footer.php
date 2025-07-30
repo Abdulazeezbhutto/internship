@@ -44,7 +44,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="copy-right">
-          <p>© Copyright <span id="copyrightYear"></span> - All Rights Reserved by <a href="https://staticmania.com/" target="_blank">StaticMania</a> Distributed By <a href="https://themewagon.com/" target="blank">ThemeWagon</a></p>
+          <p>© Copyright <span id="copyrightYear"></span> - All Rights Reserved by <a href="https://staticmania.com/" target="_blank">Abdul</a> Distributed By <a href="https://themewagon.com/" target="blank">Icreatevz</a></p>
         </div>
       </div>
     </div>
@@ -61,6 +61,9 @@
 <script src="vendor/g-map/gmap.js"></script>
 <!-- Main JS -->
 <script src="js/script.js"></script>
-</body>
 
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
 </html>
