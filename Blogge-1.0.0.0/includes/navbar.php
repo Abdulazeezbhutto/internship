@@ -14,7 +14,7 @@
       <!-- Navigation Links -->
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link" href="index.html">Home </a>
+          <a class="nav-link" href="index.php">Home </a>
         </li>
 
         <!-- ✅ Dropdown Component -->
@@ -24,18 +24,18 @@
             Categories
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="category1.html">Travel</a></li>
-            <li><a class="dropdown-item" href="category2.html">Food</a></li>
-            <li><a class="dropdown-item" href="category3.html">Music</a></li>
+            <li><a class="dropdown-item" href="travel_cat.php">Travel</a></li>
+            <li><a class="dropdown-item" href="food_cat.php">Food</a></li>
+            <li><a class="dropdown-item" href="music_cat.php">Music</a></li>
           </ul>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="about.html">About </a>
+          <a class="nav-link" href="about.php">About </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact</a>
+          <a class="nav-link" href="contact.php">Contact</a>
         </li>
       </ul>
 
@@ -51,6 +51,11 @@
           <a href="#"><i class="fa fa-instagram"></i></a>
         </li>
       </ul>
+     
+      <!-- buttons Links -->
+
+      <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+      
     </div>
   </div>
 </nav>
