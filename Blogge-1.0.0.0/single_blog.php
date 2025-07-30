@@ -13,7 +13,7 @@ include("includes/navbar.php");
 
 ?>
 
-        <section class="blog-single">
+  <section class="blog-single">
   <div class="container">
     <div class="row">
       <div class="col-lg-2 order-2 order-lg-1">
