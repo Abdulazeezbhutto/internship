@@ -7,21 +7,26 @@ include("includes/header.php");
 
 // nav bar start
 include("includes/navbar.php");
-
 // nav bar end
 
+//body start
+?>
 
+
+
+
+
+
+
+
+
+
+<?php
+//body end
 
 
 //footer start 
 include("includes/footer.php");
 //footer end
-
-
-
-
-
-
-
 
 ?>

@@ -7,13 +7,14 @@ include("includes/header.php");
 
 // nav bar start
 include("includes/navbar.php");
-
 // nav bar end
 
 //body start
 
 ?>
-        <section class="contact">
+
+<!--Contact Section-->
+<section class="contact">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -72,6 +73,7 @@ include("includes/navbar.php");
     </div>
   </div>
 </section>
+<!--Contact Section-->
 
 <?php
 

@@ -7,370 +7,374 @@ include("includes/header.php");
 
 // nav bar start
 include("includes/navbar.php");
-
 // nav bar end
 
 // home page body start
 ?>
 
-    <section class="featured">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <article class="featured-post">
-          <div class="featured-post-content">
-            <div class="featured-post-author">
-              <img src="images/author.png" alt="author" />
-              <p>By <span>Mary Astor</span></p>
-            </div>
-            <a href="single-blog.html" class="featured-post-title">
-              Every Next Level of Your Life Will Demand
-            </a>
-            <ul class="featured-post-meta">
-              <li>
-                <i class="fa fa-clock-o"></i>
-                October 19, 2020 - 3 min read
-              </li>
-            </ul>
-          </div>
-          <div class="featured-post-thumb">
-            <img src="images/featured-post.jpg" alt="feature-post-thumb" />
-          </div>
-        </article>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="blog">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8">
-        <div class="blog-section-title">
-          <h2>Articles</h2>
-          <p>View the latest news on Blogger</p>
-        </div>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <img src="images/blog/blog-thum-1.png" alt="blog-thum" />
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
-            </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
+<!--Featured start-->
+  <section class="featured">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <article class="featured-post">
+            <div class="featured-post-content">
+              <div class="featured-post-author">
+                <img src="images/author.png" alt="author" />
+                <p>By <span>Mary Astor</span></p>
+              </div>
+              <a href="single-blog.html" class="featured-post-title">
+                Every Next Level of Your Life Will Demand
+              </a>
+              <ul class="featured-post-meta">
                 <li>
                   <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
+                  October 19, 2020 - 3 min read
                 </li>
               </ul>
             </div>
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <a href="single-blog.html">
-              <img src="images/blog/blog-thum-2.png" alt="blog-thum" /></a>
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
+            <div class="featured-post-thumb">
+              <img src="images/featured-post.jpg" alt="feature-post-thumb" />
             </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
-                <li>
-                  <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
-                </li>
-              </ul>
-            </div>
-
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <a href="single-blog.html">
-              <img src="images/blog/blog-thum-3.png" alt="blog-thum" /></a>
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
-            </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
-                <li>
-                  <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
-                </li>
-              </ul>
-            </div>
-
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <a href="single-blog.html">
-              <img src="images/blog/blog-thum-4.png" alt="blog-thum" /></a>
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
-            </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
-                <li>
-                  <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
-                </li>
-              </ul>
-            </div>
-
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <a href="single-blog.html">
-              <img src="images/blog/blog-thum-5.png" alt="blog-thum" /></a>
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
-            </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
-                <li>
-                  <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
-                </li>
-              </ul>
-            </div>
-
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <a href="single-blog.html">
-              <img src="images/blog/blog-thum-6.png" alt="blog-thum" /></a>
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
-            </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
-                <li>
-                  <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
-                </li>
-              </ul>
-            </div>
-
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <article class="blog-post">
-          <div class="blog-post-thumb">
-            <a href="single-blog.html">
-              <img src="images/blog/blog-thum-7.png" alt="blog-thum" /></a>
-          </div>
-          <div class="blog-post-content">
-            <div class="blog-post-tag">
-              <a href="category.html">Travel</a>
-            </div>
-            <div class="blog-post-title">
-              <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-            </div>
-            <div class="blog-post-meta">
-              <ul>
-                <li>By <a href="about.html">Mary Astor</a></li>
-                <li>
-                  <i class="fa fa-clock-o"></i>
-                  October 19, 2020 - 2 min
-                </li>
-              </ul>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy.
-            </p>
-            <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
-          </div>
-        </article>
-        <div class="blog-post-pagination">
-          <nav aria-label="Page navigation example" class="nav-bg">
-            <ul class="pagination">
-              <li class="page-item">
-                <a class="page-link active" href="#">1</a>
-              </li>
-              <li class="page-item"><a class="page-link" href="#">2</a></li>
-              <li class="page-item"><a class="page-link" href="#">3</a></li>
-              <li class="page-item"><a class="page-link" href="#">4</a></li>
-              <li class="page-item">
-                <a class="page-link" href="#">
-                  <i class="fa fa-angle-right"></i>
-                </a>
-              </li>
-            </ul>
-          </nav>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="blog-post-widget">
-          <div class="latest-widget-title">
-            <h2>Trending post</h2>
-          </div>
-          <div class="latest-widget">
-            <div class="latest-widget-thum">
-              <a href="single-blog.html">
-                <img src="images/blog/blog-thum-8.png" alt="blog-thum" /></a>
-              <div class="icon">
-                <a href="single-blog.html">
-                  <img src="images/blog/icon.svg" alt="icon" /></a>
-              </div>
-            </div>
-            <div class="latest-widget-content">
-              <div class="content-title">
-                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-              </div>
-              <div class="content-meta">
-                <ul>
-                  <li>
-                    <i class="fa fa-clock-o"></i>
-                    October 19, 2020 - 2 min
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="latest-widget">
-            <div class="latest-widget-thum">
-              <a href="single-blog.html">
-                <img src="images/blog/blog-thum-9.png" alt="blog-thum" /></a>
-              <div class="icon">
-                <a href="single-blog.html">
-                  <img src="images/blog/icon.svg" alt="icon" /></a>
-              </div>
-            </div>
-            <div class="latest-widget-content">
-              <div class="content-title">
-                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-              </div>
-              <div class="content-meta">
-                <ul>
-                  <li>
-                    <i class="fa fa-clock-o"></i>
-                    October 19, 2020 - 2 min
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="latest-widget">
-            <div class="latest-widget-thum">
-              <a href="single-blog.html">
-                <img src="images/blog/blog-thum-10.png" alt="blog-thum" /></a>
-              <div class="icon">
-                <a href="single-blog.html">
-                  <img src="images/blog/icon.svg" alt="icon" /></a>
-              </div>
-            </div>
-            <div class="latest-widget-content">
-              <div class="content-title">
-                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-              </div>
-              <div class="content-meta">
-                <ul>
-                  <li>
-                    <i class="fa fa-clock-o"></i>
-                    October 19, 2020 - 2 min
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="latest-widget">
-            <div class="latest-widget-thum">
-              <a href="single-blog.html">
-                <img src="images/blog/blog-thum-11.png" alt="blog-thum" /></a>
-              <div class="icon">
-                <a href="single-blog.html">
-                  <img src="images/blog/icon.svg" alt="icon" /></a>
-              </div>
-            </div>
-            <div class="latest-widget-content">
-              <div class="content-title">
-                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
-              </div>
-              <div class="content-meta">
-                <ul>
-                  <li>
-                    <i class="fa fa-clock-o"></i>
-                    October 19, 2020 - 2 min
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          </article>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+<!--Featured end-->
 
+<!--blog start-->
+  <section class="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="blog-section-title">
+            <h2>Articles</h2>
+            <p>View the latest news on Blogger</p>
+          </div>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <img src="images/blog/blog-thum-1.png" alt="blog-thum" />
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <a href="single-blog.html">
+                <img src="images/blog/blog-thum-2.png" alt="blog-thum" /></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <a href="single-blog.html">
+                <img src="images/blog/blog-thum-3.png" alt="blog-thum" /></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <a href="single-blog.html">
+                <img src="images/blog/blog-thum-4.png" alt="blog-thum" /></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <a href="single-blog.html">
+                <img src="images/blog/blog-thum-5.png" alt="blog-thum" /></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <a href="single-blog.html">
+                <img src="images/blog/blog-thum-6.png" alt="blog-thum" /></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <article class="blog-post">
+            <div class="blog-post-thumb">
+              <a href="single-blog.html">
+                <img src="images/blog/blog-thum-7.png" alt="blog-thum" /></a>
+            </div>
+            <div class="blog-post-content">
+              <div class="blog-post-tag">
+                <a href="category.html">Travel</a>
+              </div>
+              <div class="blog-post-title">
+                <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+              </div>
+              <div class="blog-post-meta">
+                <ul>
+                  <li>By <a href="about.html">Mary Astor</a></li>
+                  <li>
+                    <i class="fa fa-clock-o"></i>
+                    October 19, 2020 - 2 min
+                  </li>
+                </ul>
+              </div>
+              <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                nonumy.
+              </p>
+              <a href="single-blog.html" class="blog-post-action">read more <i class="fa fa-angle-right"></i></a>
+            </div>
+          </article>
+          <div class="blog-post-pagination">
+            <nav aria-label="Page navigation example" class="nav-bg">
+              <ul class="pagination">
+                <li class="page-item">
+                  <a class="page-link active" href="#">1</a>
+                </li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">4</a></li>
+                <li class="page-item">
+                  <a class="page-link" href="#">
+                    <i class="fa fa-angle-right"></i>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="blog-post-widget">
+            <div class="latest-widget-title">
+              <h2>Trending post</h2>
+            </div>
+            <div class="latest-widget">
+              <div class="latest-widget-thum">
+                <a href="single-blog.html">
+                  <img src="images/blog/blog-thum-8.png" alt="blog-thum" /></a>
+                <div class="icon">
+                  <a href="single-blog.html">
+                    <img src="images/blog/icon.svg" alt="icon" /></a>
+                </div>
+              </div>
+              <div class="latest-widget-content">
+                <div class="content-title">
+                  <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+                </div>
+                <div class="content-meta">
+                  <ul>
+                    <li>
+                      <i class="fa fa-clock-o"></i>
+                      October 19, 2020 - 2 min
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="latest-widget">
+              <div class="latest-widget-thum">
+                <a href="single-blog.html">
+                  <img src="images/blog/blog-thum-9.png" alt="blog-thum" /></a>
+                <div class="icon">
+                  <a href="single-blog.html">
+                    <img src="images/blog/icon.svg" alt="icon" /></a>
+                </div>
+              </div>
+              <div class="latest-widget-content">
+                <div class="content-title">
+                  <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+                </div>
+                <div class="content-meta">
+                  <ul>
+                    <li>
+                      <i class="fa fa-clock-o"></i>
+                      October 19, 2020 - 2 min
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="latest-widget">
+              <div class="latest-widget-thum">
+                <a href="single-blog.html">
+                  <img src="images/blog/blog-thum-10.png" alt="blog-thum" /></a>
+                <div class="icon">
+                  <a href="single-blog.html">
+                    <img src="images/blog/icon.svg" alt="icon" /></a>
+                </div>
+              </div>
+              <div class="latest-widget-content">
+                <div class="content-title">
+                  <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+                </div>
+                <div class="content-meta">
+                  <ul>
+                    <li>
+                      <i class="fa fa-clock-o"></i>
+                      October 19, 2020 - 2 min
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="latest-widget">
+              <div class="latest-widget-thum">
+                <a href="single-blog.html">
+                  <img src="images/blog/blog-thum-11.png" alt="blog-thum" /></a>
+                <div class="icon">
+                  <a href="single-blog.html">
+                    <img src="images/blog/icon.svg" alt="icon" /></a>
+                </div>
+              </div>
+              <div class="latest-widget-content">
+                <div class="content-title">
+                  <a href="single-blog.html">Five Things You Need to Know to Start Your Day</a>
+                </div>
+                <div class="content-meta">
+                  <ul>
+                    <li>
+                      <i class="fa fa-clock-o"></i>
+                      October 19, 2020 - 2 min
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!--Featured end-->
+
+<!--instgram section start-->
 <section class="instagram">
   <a href="#">
     <i class="fa fa-instagram" aria-hidden="true"></i>
@@ -404,25 +408,13 @@ include("includes/navbar.php");
     </div>
   </div>
 </section>
-
-
-
+<!--instgram section end-->
 
 
 <?php
 
-
-
-
 //footer start 
 include("includes/footer.php");
 //footer end
-
-
-
-
-
-
-
 
 ?>

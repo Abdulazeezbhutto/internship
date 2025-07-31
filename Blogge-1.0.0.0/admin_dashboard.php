@@ -7,10 +7,9 @@ include("includes/header.php");
 
 // nav bar start
 include("includes/navbar.php");
-
 // nav bar end
 
-// admin dashbooard start
+// admin dashbooard Body start
 ?>
    
 
@@ -23,9 +22,9 @@ include("includes/navbar.php");
 
 <?php
 
-// admin dashboard end
+// admin dashboard body end
 
-
-
+// footer
 include("includes/footer.php");
+//footer
 ?>

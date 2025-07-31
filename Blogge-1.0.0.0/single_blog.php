@@ -7,13 +7,13 @@ include("includes/header.php");
 
 // nav bar start
 include("includes/navbar.php");
-
 // nav bar end
 
 
 ?>
 
-  <section class="blog-single">
+<!--Single Blog Start-->
+<section class="blog-single">
   <div class="container">
     <div class="row">
       <div class="col-lg-2 order-2 order-lg-1">
@@ -118,26 +118,7 @@ include("includes/navbar.php");
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--Single Blog-->
 
 
 <?php
@@ -147,12 +128,5 @@ include("includes/navbar.php");
 //footer start 
 include("includes/footer.php");
 //footer end
-
-
-
-
-
-
-
 
 ?>
