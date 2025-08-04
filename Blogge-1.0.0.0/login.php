@@ -6,6 +6,8 @@ include_once("includes/header.php");
 <div class="container d-flex justify-content-center align-items-center min-vh-100">
   <div class="border rounded shadow p-4 bg-white" style="width: 500px; height: 500px;">
     <h4 class="mb-4 text-center">Login</h4>
+    <h5 class="mb-4 text-center fw-bold"><?php echo $_GET['msg']??""?></h5>
+
     <form method = "POST" action = "process.php">
 
     <!--Email-->
@@ -28,7 +30,7 @@ include_once("includes/header.php");
         </label>
       </div>
 
-      <button type="submit" class="btn btn-primary w-100" name = "login" value = "login">Sign in</button>
+      <button type="submit" class="btn btn-primary w-100" name = "submit" value = "login">Sign in</button>
     </form>
     <p class="mt-3 mb-0 text-center">
     <small class="text-muted">

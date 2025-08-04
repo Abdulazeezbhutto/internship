@@ -1,9 +1,9 @@
 <?php
 
-    $host_name              = "";
-    $user_name              = "";
+    $host_name              = "localhost";
+    $user_name              = "root";
     $password               = "";
-    $database_name          = "";
+    $database_name          = "blog_system";
 
 
 
